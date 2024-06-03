@@ -21,8 +21,8 @@ openai_api_key = os.getenv("OPENAI_API_KEY")
 
 3. Ensure openai,Gradio is installed on your system and run the app using the below commands from command prompt:
 
-git clone https://github.com/padmapria/GPT-ChatBot-with-OpenAI.git    
-cd GPT-ChatBot-with-OpenAI    
+git clone https://github.com/padmapria/gpt-3.5-gradio-chatbot.git    
+cd gpt-3.5-gradio-chatbot    
 pip install -r requirements.txt    
 python app.py    
 
