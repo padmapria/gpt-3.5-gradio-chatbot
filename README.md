@@ -1,4 +1,4 @@
-# GPT-ChatBot-with-OpenAI   
+# gpt-3.5-gradio-chatbot  
 An LLM-powered Chatbot app with Gradio.
 
 ## How to Run the App
